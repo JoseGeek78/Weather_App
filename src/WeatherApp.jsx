@@ -1,5 +1,9 @@
 export const WeatherApp = () => {
   return (
-    <div>WeatherApp</div>
+    <div className="container">
+
+      <h1>Weather App</h1>
+
+    </div>
   )
 }
