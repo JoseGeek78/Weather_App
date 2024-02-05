@@ -1,5 +1,5 @@
-export const WheatherApp = () => {
+export const WeatherApp = () => {
   return (
-    <div>WheatherApp</div>
+    <div>WeatherApp</div>
   )
 }
